@@ -1,0 +1,6 @@
+C:\Users\Zoli\Desktop\prg\Footgolf\Footgolf\bin\Debug\Footgolf.exe.config
+C:\Users\Zoli\Desktop\prg\Footgolf\Footgolf\bin\Debug\Footgolf.exe
+C:\Users\Zoli\Desktop\prg\Footgolf\Footgolf\bin\Debug\Footgolf.pdb
+C:\Users\Zoli\Desktop\prg\Footgolf\Footgolf\obj\Debug\Footgolf.csprojResolveAssemblyReference.cache
+C:\Users\Zoli\Desktop\prg\Footgolf\Footgolf\obj\Debug\Footgolf.exe
+C:\Users\Zoli\Desktop\prg\Footgolf\Footgolf\obj\Debug\Footgolf.pdb
