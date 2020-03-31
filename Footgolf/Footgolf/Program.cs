@@ -33,7 +33,7 @@ namespace Footgolf
 
         private static void Fel04(bool gender)
         {
-            var a = versenyzok.Where(f => f.Kategoria == gender).Max(f => f.Osszpontszam);
+            var a = versenyzok.Where(f => f.Kategoria == gender).OrderBy(f => f.Osszpontszam).First();
             Console.WriteLine($"Feladat 6: \n\tNév: {a.Nev}\n\tEgyesület: {a.Egyesulet}\n\tÖsszpont: {a.Osszpontszam}");
         }
 
